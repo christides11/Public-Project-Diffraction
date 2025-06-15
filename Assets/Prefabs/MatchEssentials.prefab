@@ -2462,11 +2462,11 @@ MonoBehaviour:
   - {fileID: 11400000, guid: adef399b89c79e54883c35d6ac2ac107, type: 2}
   - {fileID: 11400000, guid: 3a9d5e5b29aa90043ae396f8b35f3c90, type: 2}
   _assistProperties:
+  - {fileID: 11400000, guid: a2b7d080397493b439a24d22b13c024f, type: 2}
   - {fileID: 11400000, guid: cc55fb9995fb9644f87b9aa91ca49600, type: 2}
   - {fileID: 11400000, guid: d144147fa4f733940bd4c98e3f652739, type: 2}
   - {fileID: 11400000, guid: efcb0c7dc9906bb4eb463cda4d0d5f7d, type: 2}
   - {fileID: 11400000, guid: 161683a4e3a487949bcdcf9493672cea, type: 2}
-  - {fileID: 11400000, guid: a2b7d080397493b439a24d22b13c024f, type: 2}
   effectMixerGroup: {fileID: 7492163431014846118, guid: 10875123d986f3e479e8835256791eb7,
     type: 2}
 --- !u!114 &2430333723796741666
@@ -5715,17 +5715,17 @@ PrefabInstance:
     - target: {fileID: 2397385246059440642, guid: 5c192f916b99ba547af0ccf2aa101605,
         type: 3}
       propertyPath: m_NormalizedViewPortRect.y
-      value: 0.4652778
+      value: 1.0777779
       objectReference: {fileID: 0}
     - target: {fileID: 2397385246059440642, guid: 5c192f916b99ba547af0ccf2aa101605,
         type: 3}
       propertyPath: m_NormalizedViewPortRect.width
-      value: 0.3859375
+      value: 0.4765625
       objectReference: {fileID: 0}
     - target: {fileID: 2397385246059440642, guid: 5c192f916b99ba547af0ccf2aa101605,
         type: 3}
       propertyPath: m_NormalizedViewPortRect.height
-      value: 0.3859375
+      value: 0.4765625
       objectReference: {fileID: 0}
     - target: {fileID: 2397385246059440893, guid: 5c192f916b99ba547af0ccf2aa101605,
         type: 3}
@@ -5810,7 +5810,7 @@ PrefabInstance:
     - target: {fileID: 7991265641980833627, guid: 5c192f916b99ba547af0ccf2aa101605,
         type: 3}
       propertyPath: m_Lens.m_SensorSize.x
-      value: 1.7777778
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8563475510381325918, guid: 5c192f916b99ba547af0ccf2aa101605,
         type: 3}
