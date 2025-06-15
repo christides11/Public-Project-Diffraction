@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: OGMusicNames_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 59ac7adfd3b4db74aa77ce98ef5d9cb6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 124045623296
+    m_Localized: Take Thy Danmaku In Hand, O Bulletphiles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 555853414400
+    m_Localized: The Mysterious Shrine Maiden Flying Through Space
+    m_Metadata:
+      m_Items: []
+  - m_Id: 630868541440
+    m_Localized: Magus Night
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809094672384
+    m_Localized: "Maiden's Capriccio \uFF5E Dream Battle"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1849955581952
+    m_Localized: Youkai Mountain ~ Mysterious Mountain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928170962944
+    m_Localized: Shanghai Alice of Meiji 17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1992746467328
+    m_Localized: Walking the Streets of a Former Hell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2136132943872
+    m_Localized: The Ground's Color Is Yellow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2185344712704
+    m_Localized: A Flower-Studded Sake Dish on Mt. Ooe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29031067230011392
+    m_Localized: Retrospective Kyoto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29031133302882304
+    m_Localized: Celestial Wizardry ~ Magical Astronomy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29031337955557376
+    m_Localized: Theme of Eastern Story
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29031388790521856
+    m_Localized: Magician's Melancholy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29031684279238656
+    m_Localized: Nightmare Diary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29031833353191424
+    m_Localized: Lunar Clock ~ Luna Dial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29032006313705472
+    m_Localized: Catastrophe in Bhava-agra ~ Wonderful Heaven
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29032306139332608
+    m_Localized: Retribution for the Eternal Night
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29033079363469312
+    m_Localized: Shanghai Scarlet Teahouse ~ Chinese Tea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29033229951565824
+    m_Localized: Decisive Magic Battle! ~ Fight it out!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29033318786924544
+    m_Localized: Because Princess Inada is Scolding Me
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29033405164421120
+    m_Localized: "Angel of a Distant Star ~ The \"\u2605Alice-in-Wonderland\" Angel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29033517735346176
+    m_Localized: The Exaggerated Castle Keep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29033618474139648
+    m_Localized: Necrofantasia
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

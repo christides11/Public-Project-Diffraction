@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5c8af55d056419498b437683c283ddc, type: 3}
+  m_Name: Sakuya
+  m_EditorClassIdentifier: 
+  _coolDown: 90
+  _icon: {fileID: 21300000, guid: 9784da91d3573734eb917180cd7e43e4, type: 3}
+  _iconColor: {r: 0.6156863, g: 0.63529414, b: 0.69411767, a: 1}
+  _mascot: {fileID: 504363153, guid: 7d2a17f404e07d14395cec14480dda67, type: 3}
+  _assistPrefab: {fileID: 227799215010894158, guid: 4ccb69f74123aa2498f920bb74a74904,
+    type: 3}

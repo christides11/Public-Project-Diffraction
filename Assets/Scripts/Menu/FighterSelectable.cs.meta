@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3837d1511fa4f24096292c82d836d1c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _tagShadow: {instanceID: 0}
+  - _fighterProperties: {instanceID: 0}
+  - _crystalMat: {instanceID: 0}
+  - _ogMat: {fileID: 2100000, guid: ca6336e14d380cd4382bc509fc494939, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

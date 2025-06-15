@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: OGMusicNames Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: OGMusicNames
+  m_TableCollectionNameGuidString: 59ac7adfd3b4db74aa77ce98ef5d9cb6
+  m_Entries:
+  - m_Id: 124045623296
+    m_Key: Bulletphiles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 555853414400
+    m_Key: SpaceMaiden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 630868541440
+    m_Key: Magus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809094672384
+    m_Key: Capriccio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1849955581952
+    m_Key: Mountain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1928170962944
+    m_Key: Meiji
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1992746467328
+    m_Key: HellStreet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2136132943872
+    m_Key: YellowGround
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2185344712704
+    m_Key: OoeDish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29031067230011392
+    m_Key: Kyoto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29031133302882304
+    m_Key: Wizardry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29031337955557376
+    m_Key: Main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29031388790521856
+    m_Key: Melancholy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29031684279238656
+    m_Key: Diary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29031833353191424
+    m_Key: Dial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29032006313705472
+    m_Key: Heaven
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29032306139332608
+    m_Key: Retribution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29033079363469312
+    m_Key: Chinese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29033229951565824
+    m_Key: Decisive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29033318786924544
+    m_Key: Inada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29033405164421120
+    m_Key: Wonderland
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29033517735346176
+    m_Key: Castle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29033618474139648
+    m_Key: Necrofantasia
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3979018847272828930
+  references:
+    version: 2
+    RefIds:
+    - rid: 3979018847272828930
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1743049645761

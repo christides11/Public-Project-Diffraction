@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Chinese (Simplified) (zh)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Chinese (Simplified) (zh)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 297603b64b44f5944a6eb80b662bd286
+  m_SerializeEntries:
+  - m_GUID: 676e2afdb04d7184eb3d6ad46988f123
+    m_Address: SpellcardText_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    - Preload
+  - m_GUID: f403cf5927f0979419829834c0a81528
+    m_Address: Name_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    - Preload
+  - m_GUID: 2b73199f9af5bdb41ab4a2f75074b4a0
+    m_Address: AssistName_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    - Preload
+  - m_GUID: 05b5c7b745e9e5b4b80c213190b5c4b6
+    m_Address: RebindButtons_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    - Preload
+  - m_GUID: 70c9cebea8036374b8e2575621ecf5e6
+    m_Address: StageNames_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    - Preload
+  - m_GUID: 9856910dd710d5b4e8f8717c751d8a56
+    m_Address: OGMusicNames_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 68fa605489ca3f74cb42f839acdf7df6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5b9f0de6525ef2a478899f4e3e052360, type: 2}
+    - {fileID: 11400000, guid: 25c00275e927e6b4cac66f8971f2e88f, type: 2}

@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: RebindButtons Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: RebindButtons
+  m_TableCollectionNameGuidString: 41185e54841190d47991479b2e705506
+  m_Entries:
+  - m_Id: 51501633536
+    m_Key: Move
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79800602624
+    m_Key: Action
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100558213120
+    m_Key: Attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119227060224
+    m_Key: Special
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138030125056
+    m_Key: Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 293861101568
+    m_Key: Shield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319798677504
+    m_Key: Grab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330414460928
+    m_Key: Assist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 349104279552
+    m_Key: Taunt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410798297088
+    m_Key: DashToggle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 412580876288
+    m_Key: JumpToggle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 453966073856
+    m_Key: SmashToggle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 471515041792
+    m_Key: SpecialToggle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 530465984512
+    m_Key: NeutralLock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3732468961280
+    m_Key: AutoLedgeGrab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3758293291008
+    m_Key: TapDash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3770653904896
+    m_Key: TapJump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3788861378560
+    m_Key: TapSmash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3823502135296
+    m_Key: TapAirDash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3897275748352
+    m_Key: TapDrop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3917207080960
+    m_Key: StickSensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3937834668032
+    m_Key: BufferWindow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3983493861376
+    m_Key: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3993279172608
+    m_Key: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4006998740992
+    m_Key: HeavenPreset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4037046734848
+    m_Key: NativePreset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4057946951680
+    m_Key: TwilightPreset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4078687784960
+    m_Key: AetherPreset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624094558359552
+    m_Key: DoubleTap
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4042250325824372736
+  references:
+    version: 2
+    RefIds:
+    - rid: 4042250325824372736
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1733992574872

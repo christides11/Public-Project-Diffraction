@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: SpellcardText_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 19b6ea5b93c324a44b5383f2331102cf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 196817981440
+    m_Localized: Divine Arts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 660779307008
+    m_Localized: Spirit Sign
+    m_Metadata:
+      m_Items: []
+  - m_Id: 809014398976
+    m_Localized: Boundary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 982415314944
+    m_Localized: "\u201CFantasy Seal\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 948676333568
+    m_Localized: "\u201COmnidirectional Oni-Binding Circle\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1023871815680
+    m_Localized: "\u201CDuplex Danmaku Barrier\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21842618891898880
+    m_Localized: Love Sign
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21842976770887680
+    m_Localized: Love Sign
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21843118303481856
+    m_Localized: Love Sign
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21843169968918528
+    m_Localized: "\u201CMilky Way\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21844026856837120
+    m_Localized: "\u201CMaster Spark\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21845536122605568
+    m_Localized: "\u201CNon-Directional Laser\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202681383166017536
+    m_Localized: Big Four Arcanum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202681377549844480
+    m_Localized: Feat of Strength
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202681381354078208
+    m_Localized: Oni Sign
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202682365492985856
+    m_Localized: '"Wind Blowing Down from Mt. Ooe"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202682371079798784
+    m_Localized: '"Anomalies, Strength, Disorder, and Spirits"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202682373575409664
+    m_Localized: '"Knock Out In Three Steps"'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

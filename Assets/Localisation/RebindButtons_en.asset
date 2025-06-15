@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: RebindButtons_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 41185e54841190d47991479b2e705506, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 51501633536
+    m_Localized: For locomotion. Also determines the attack direction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79800602624
+    m_Localized: Performs a directional attack when a direction is held
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100558213120
+    m_Localized: Close ranged damaging move
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119227060224
+    m_Localized: Shoot bullets and perform various special moves
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138030125056
+    m_Localized: On the ground, ascend up. In the air, dash in a straight line
+    m_Metadata:
+      m_Items: []
+  - m_Id: 293861101568
+    m_Localized: Cast a shield to block attacks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319798677504
+    m_Localized: Close ranged attack that bypasses shield. Also the manual ledge
+      grab button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330414460928
+    m_Localized: Call upon the powers of other Youkai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 349104279552
+    m_Localized: Show them who's boss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410798297088
+    m_Localized: Hold to automatically dash on the ground when a direction is held
+    m_Metadata:
+      m_Items: []
+  - m_Id: 412580876288
+    m_Localized: Hold to automatically jump or air dash when a direction is held
+    m_Metadata:
+      m_Items: []
+  - m_Id: 453966073856
+    m_Localized: Converts Attack into Spell Attack, and Technique into Spellcard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 471515041792
+    m_Localized: Converts Attack into Technique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 530465984512
+    m_Localized: When held, move inputs do not affect attack and technique direction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3732468961280
+    m_Localized: Automatically snaps to ledge when in range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3758293291008
+    m_Localized: Flicking the control stick on the ground initiates a dash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3770653904896
+    m_Localized: Flicking the control stick up on the groundinitiates a jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3788861378560
+    m_Localized: Flicking the control stick and attacking initiates a spell attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3823502135296
+    m_Localized: Flicking the control stick in the air initiates an air dash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3897275748352
+    m_Localized: Flick the control stick down on a platform to drop down
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3917207080960
+    m_Localized: Flick speed required for tap related actions to occur (higher =
+      easier)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3937834668032
+    m_Localized: Timing window to initiate the next action during an ongoing action
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3983493861376
+    m_Localized: Saves current settings into player profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3993279172608
+    m_Localized: Return to Profile Settings without saving
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4006998740992
+    m_Localized: Recommended for beginners, intuitive and simple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4037046734848
+    m_Localized: Recommended for those wanting to maximise efficiency
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4057946951680
+    m_Localized: Recommended for those experienced in traditional fighting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4078687784960
+    m_Localized: Recommended for beginners, intuitive and simple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624094558359552
+    m_Localized: Make tap motions require 2 flicks to register
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5c8af55d056419498b437683c283ddc, type: 3}
+  m_Name: Iku
+  m_EditorClassIdentifier: 
+  _coolDown: 60
+  _icon: {fileID: 21300000, guid: 9c8717c42e520354987b874d5ad6df7b, type: 3}
+  _iconColor: {r: 0.5372549, g: 0.14117648, b: 0.34117648, a: 1}
+  _mascot: {fileID: -577934392, guid: 7ebda1e676d66554ebc277699f378e3e, type: 3}
+  _assistPrefab: {fileID: 227799215010894158, guid: 697edb65e18318941bbc53b63a295149,
+    type: 3}

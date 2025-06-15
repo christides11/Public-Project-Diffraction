@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8eed62410a2c23546965e27174bdd988, type: 3}
+  m_Name: Aya
+  m_EditorClassIdentifier: 
+  _groundRes: 0.05
+  _runSpd: 3.5
+  _runAcl: 9
+  _dashSpd: 10
+  _airAcl: 0.225
+  _airSpd: 3.75
+  _fallSpd: 0.3
+  _termVelo: 7
+  _airRes: 0.04
+  _mass: 2.5
+  _health: 10000000
+  _launchRes: 0.028
+  _jumpHeight: 14
+  _decelerate: 9
+  _jumpTime: 0.07
+  _shorthopTime: 0.017
+  _rollSpd: 7
+  _airdashTime: 0.2
+  _airdashSpd: 9
+  _upAcl: 0.15
+  _downAcl: 0.25
+  _focusAcl: 0.2
+  _focusSpd: 0
+  _focusTime: 0.3
+  _focusRes: 0.005
+  _walljumpEnable: 1
+  palette:
+  - colorMat: {fileID: 2100000, guid: 0495a6f2dc49b2d4d9dd8926cfdd37df, type: 2}
+    portrait: {fileID: 1345651364, guid: 7a5df45bd4aa518488de196de6acaa07, type: 3}
+    portraitFull: {fileID: 768361406, guid: 5ac759bf7b1c9894ab9bfeec482874dd, type: 3}
+    stockIcon: {fileID: 6387695862023466614, guid: 2d4b0ae8247edf0418042a64c5e8f468,
+      type: 3}
+    defaultPlayerColorID: 0
+    backupPlayerColorID: 6
+  - colorMat: {fileID: 2100000, guid: f777319ce70858343975fdd9913e029d, type: 2}
+    portrait: {fileID: 1633329118, guid: 7a5df45bd4aa518488de196de6acaa07, type: 3}
+    portraitFull: {fileID: 768361406, guid: 5ac759bf7b1c9894ab9bfeec482874dd, type: 3}
+    stockIcon: {fileID: 3526047145417407852, guid: da2b5b02f1a08cb4aa867a62cec4d543,
+      type: 3}
+    defaultPlayerColorID: 1
+    backupPlayerColorID: 8
+  - colorMat: {fileID: 2100000, guid: 311d49f6034563748ae0b2fb1da661bf, type: 2}
+    portrait: {fileID: 1455307910, guid: 7a5df45bd4aa518488de196de6acaa07, type: 3}
+    portraitFull: {fileID: 768361406, guid: 5ac759bf7b1c9894ab9bfeec482874dd, type: 3}
+    stockIcon: {fileID: 3526047145417407852, guid: 0e5edaf635500d444947b9558324ea9f,
+      type: 3}
+    defaultPlayerColorID: 6
+    backupPlayerColorID: 5
+  - colorMat: {fileID: 2100000, guid: 96fabb71b5f6c784f83f9c9f14754b1c, type: 2}
+    portrait: {fileID: -1770990039, guid: 7a5df45bd4aa518488de196de6acaa07, type: 3}
+    portraitFull: {fileID: 768361406, guid: 5ac759bf7b1c9894ab9bfeec482874dd, type: 3}
+    stockIcon: {fileID: 3526047145417407852, guid: 21850aa10760cba4b8208d54a36f3dfa,
+      type: 3}
+    defaultPlayerColorID: 7
+    backupPlayerColorID: 1
+  - colorMat: {fileID: 2100000, guid: 874330f16568e2c4caa1a3ff9c47bfaa, type: 2}
+    portrait: {fileID: -1296109009, guid: 7a5df45bd4aa518488de196de6acaa07, type: 3}
+    portraitFull: {fileID: 768361406, guid: 5ac759bf7b1c9894ab9bfeec482874dd, type: 3}
+    stockIcon: {fileID: 3526047145417407852, guid: af47ae13682afd949a5a2eb21438e252,
+      type: 3}
+    defaultPlayerColorID: 5
+    backupPlayerColorID: 4
+  - colorMat: {fileID: 2100000, guid: e631c93887c752743bcced4f22060c3f, type: 2}
+    portrait: {fileID: 609953025, guid: 7a5df45bd4aa518488de196de6acaa07, type: 3}
+    portraitFull: {fileID: 768361406, guid: 5ac759bf7b1c9894ab9bfeec482874dd, type: 3}
+    stockIcon: {fileID: 3526047145417407852, guid: dba471a2882bb584d937827044c40782,
+      type: 3}
+    defaultPlayerColorID: 4
+    backupPlayerColorID: 0
+  - colorMat: {fileID: 2100000, guid: c5f873d2aaec9bd49bbba8d0eeceee5f, type: 2}
+    portrait: {fileID: -960548172, guid: 7a5df45bd4aa518488de196de6acaa07, type: 3}
+    portraitFull: {fileID: 768361406, guid: 5ac759bf7b1c9894ab9bfeec482874dd, type: 3}
+    stockIcon: {fileID: 3526047145417407852, guid: f725036e8e9b1d84285f9a073baf62df,
+      type: 3}
+    defaultPlayerColorID: 3
+    backupPlayerColorID: 7
+  - colorMat: {fileID: 2100000, guid: 4fb0b2e12f969b44fb60b1b1342b3168, type: 2}
+    portrait: {fileID: -1704043611, guid: 7a5df45bd4aa518488de196de6acaa07, type: 3}
+    portraitFull: {fileID: 768361406, guid: 5ac759bf7b1c9894ab9bfeec482874dd, type: 3}
+    stockIcon: {fileID: 3526047145417407852, guid: 89a12627f3dfecc4493ca5e165ec15bc,
+      type: 3}
+    defaultPlayerColorID: 2
+    backupPlayerColorID: 1
+  nameJap: {fileID: 21300000, guid: 8e9b85e439c0ba34a98ceb316b4d4806, type: 3}
+  nameJapBG: {fileID: 21300000, guid: dc832d38f04e40844ba6be3e0f0951d6, type: 3}
+  fighterExtraUI: {fileID: 5440042704421921257, guid: 6aaa562a430103f4b8c7906fefd89c71,
+    type: 3}
+  CharSelectPortraitOffset: {x: 0, y: 0}
+  fighterPrefab: {fileID: 6075921538441666368, guid: c459a3765a137bc42b6ac9c01dc65d46,
+    type: 3}

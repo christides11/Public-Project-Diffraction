@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e92a4296f29c9474a8dd0ad8b1376427, type: 3}
+  m_Name: MarisaProjectileWeak
+  m_EditorClassIdentifier: 
+  _groundRes: 0
+  _runSpd: 0
+  _runAcl: 0
+  _dashSpd: 0
+  _airAcl: 0
+  _airSpd: 0
+  _fallSpd: 0
+  _termVelo: 0
+  _airRes: 0
+  _mass: 1
+  _health: 3
+  _launchRes: 0

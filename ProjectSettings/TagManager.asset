@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Stage
+  - Platform
+  - Floating
+  - MasterSpark
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - ProjectilePlatform
+  - CharacterPlatform
+  - Character
+  - Platform
+  - Hurtbox
+  - Shield
+  - Hitbox
+  - BlastZone
+  - Pushbox
+  - Projectile
+  - CamEdge
+  - Background
+  - ledge
+  - Shockwave
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Distortion
+  - HitboxView
+  m_SortingLayers:
+  - name: Skybox
+    uniqueID: 3878735861
+    locked: 0
+  - name: Background
+    uniqueID: 4226054571
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Props
+    uniqueID: 3725395279
+    locked: 0
+  - name: FX Back
+    uniqueID: 1968182475
+    locked: 0
+  - name: Player
+    uniqueID: 1040876031
+    locked: 0
+  - name: Projectile
+    uniqueID: 200407177
+    locked: 0
+  - name: FXFront
+    uniqueID: 934294901
+    locked: 0
+  - name: Foreground
+    uniqueID: 2860212273
+    locked: 0
+  - name: Distortion
+    uniqueID: 366971017
+    locked: 0
+  - name: UI
+    uniqueID: 1009332629
+    locked: 0

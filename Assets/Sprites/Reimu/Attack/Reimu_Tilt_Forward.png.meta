@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: 0f2e963186c61fe4a99c9279eca04c1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5551410217931014373
+    second: Reimu ftilt_0
+  - first:
+      213: -7853140096993268121
+    second: Reimu ftilt_1
+  - first:
+      213: -8469802805896107592
+    second: Reimu ftilt_2
+  - first:
+      213: -7359308188228941508
+    second: Reimu ftilt_3
+  - first:
+      213: -6522492534167001884
+    second: Reimu ftilt_4
+  - first:
+      213: -3350773311461112231
+    second: Reimu ftilt_5
+  - first:
+      213: 1677593028606115043
+    second: Reimu ftilt_6
+  - first:
+      213: -2305873988938517279
+    second: Reimu ftilt_7
+  - first:
+      213: -8309510744745654449
+    second: Reimu ftilt_8
+  - first:
+      213: 2385520099783731702
+    second: Reimu ftilt_9
+  - first:
+      213: -7096958553367442530
+    second: Reimu ftilt_10
+  - first:
+      213: -2318187946659573818
+    second: Reimu ftilt_11
+  - first:
+      213: -3702340984979370204
+    second: Reimu ftilt_12
+  - first:
+      213: 1130888151712043575
+    second: Reimu ftilt_13
+  - first:
+      213: -5130658657731875795
+    second: Reimu ftilt_14
+  - first:
+      213: 3958129817117338524
+    second: Reimu ftilt_15
+  - first:
+      213: -2936004011546850575
+    second: Reimu ftilt_16
+  - first:
+      213: -57195114794790381
+    second: Reimu ftilt_17
+  - first:
+      213: 5186311528560546290
+    second: Reimu ftilt_0
+  - first:
+      213: -7383417173511722483
+    second: Reimu ftilt_1
+  - first:
+      213: -1197019592046172120
+    second: Reimu ftilt_2
+  - first:
+      213: 129863143592520270
+    second: Reimu ftilt_3
+  - first:
+      213: -677627351325385930
+    second: Reimu ftilt_4
+  - first:
+      213: 7318003881560433234
+    second: Reimu ftilt_5
+  - first:
+      213: 5194304670110068180
+    second: Reimu ftilt_6
+  - first:
+      213: -2077914555927460276
+    second: Reimu ftilt_7
+  - first:
+      213: -8767883340915903799
+    second: Reimu ftilt_8
+  - first:
+      213: 7747166326734144689
+    second: Reimu ftilt_9
+  - first:
+      213: 7998868868820302311
+    second: Reimu ftilt_10
+  - first:
+      213: -4907526467318781222
+    second: Reimu ftilt_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Reimu ftilt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0804a3e229a0d40800000000000000
+      internalID: 5551410217931014373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimu ftilt_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ee65380ba040390800000000000000
+      internalID: -7853140096993268121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimu ftilt_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9a4f41937357a80800000000000000
+      internalID: -8469802805896107592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimu ftilt_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c398dffa13c7ed990800000000000000
+      internalID: -7359308188228941508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimu ftilt_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4a6da09937b75a0800000000000000
+      internalID: -6522492534167001884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimu ftilt_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95640872d69af71d0800000000000000
+      internalID: -3350773311461112231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimu ftilt_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec3db3a8f1084710800000000000000
+      internalID: 1677593028606115043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimu ftilt_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4b188f2d3efffd0800000000000000
+      internalID: -2305873988938517279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimu ftilt_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47c42ad000beac80800000000000000
+      internalID: -8309510744745654449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimu ftilt_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9e92844e11b1120800000000000000
+      internalID: 2385520099783731702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimu ftilt_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b0dd80cc9828d90800000000000000
+      internalID: -7096958553367442530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reimu ftilt_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf83c4485424dfd0800000000000000
+      internalID: -2318187946659573818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Reimu ftilt_11: -2318187946659573818
+      Reimu ftilt_10: -7096958553367442530
+      Reimu ftilt_7: -2305873988938517279
+      Reimu ftilt_6: 1677593028606115043
+      Reimu ftilt_4: -6522492534167001884
+      Reimu ftilt_0: 5551410217931014373
+      Reimu ftilt_2: -8469802805896107592
+      Reimu ftilt_9: 2385520099783731702
+      Reimu ftilt_5: -3350773311461112231
+      Reimu ftilt_1: -7853140096993268121
+      Reimu ftilt_3: -7359308188228941508
+      Reimu ftilt_8: -8309510744745654449
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

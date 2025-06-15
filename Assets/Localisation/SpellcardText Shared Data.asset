@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: SpellcardText Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: SpellcardText
+  m_TableCollectionNameGuidString: 19b6ea5b93c324a44b5383f2331102cf
+  m_Entries:
+  - m_Id: 196817981440
+    m_Key: ReimuSCShortUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 660779307008
+    m_Key: ReimuSCShortSide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 809014398976
+    m_Key: ReimuSCShortDown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 948676333568
+    m_Key: ReimuSCLongUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 982415314944
+    m_Key: ReimuSCLongSide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1023871815680
+    m_Key: ReimuSCLongDown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21842618891898880
+    m_Key: MarisaSCShortDown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21842976770887680
+    m_Key: MarisaSCShortSide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21843118303481856
+    m_Key: MarisaSCShortUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21843169968918528
+    m_Key: MarisaSCLongDown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21844026856837120
+    m_Key: MarisaSCLongSide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21845536122605568
+    m_Key: MarisaSCLongUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202681377549844480
+    m_Key: YuugiSCShortUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202681381354078208
+    m_Key: YuugiSCShortSide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202681383166017536
+    m_Key: YuugiSCShortDown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202682365492985856
+    m_Key: YuugiSCLongUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202682371079798784
+    m_Key: YuugiSCLongSide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202682373575409664
+    m_Key: YuugiSCLongDown
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 926356327928168473
+  references:
+    version: 2
+    RefIds:
+    - rid: 926356327928168473
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1665218482088

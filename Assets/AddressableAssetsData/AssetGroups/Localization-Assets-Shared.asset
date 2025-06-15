@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 242a1387b361ad94cb92d28b33fe165a
+  m_SerializeEntries:
+  - m_GUID: 19b6ea5b93c324a44b5383f2331102cf
+    m_Address: Assets/Localisation/Spellcard Text Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 3dd44c36c090c514f94a6d090c6e717a
+    m_Address: Assets/Localisation/Name Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: a462247c00b8597499a93843abfdcbb3
+    m_Address: Assets/Localisation/AssistName Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 41185e54841190d47991479b2e705506
+    m_Address: Assets/Localisation/RebindButtons Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 207c5ffef051ee340ba24572e001d9db
+    m_Address: Assets/Localisation/StageNames Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 59ac7adfd3b4db74aa77ce98ef5d9cb6
+    m_Address: Assets/Localisation/OGMusicNames Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 68fa605489ca3f74cb42f839acdf7df6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8602bbfa0d32b17459e8de706139fc71, type: 2}
+    - {fileID: 11400000, guid: 17b93ecbf7918d74f8160c12a974ee51, type: 2}

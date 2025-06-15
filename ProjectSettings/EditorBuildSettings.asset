@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: bc26e18e70a0ebe42807d87d556b688e
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 7a297cfc2383d0f4fb5be36d09b55d50
+  - enabled: 1
+    path: Assets/Scenes/PreBattle.unity
+    guid: ba00bf3f2ff25964da276056d8462b29
+  - enabled: 1
+    path: Assets/Scenes/DreamWorld.unity
+    guid: 8f3cea98f0805eb459d43366140b8c88
+  - enabled: 1
+    path: Assets/Scenes/DreamTrainer.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/HakureiShrine.unity
+    guid: 26613583d70b34a45a014dbeb2a2b32b
+  - enabled: 1
+    path: Assets/Scenes/ForestOfMagic.unity
+    guid: bad9c7d636a16304c93a41cde0362dd8
+  - enabled: 0
+    path: Assets/Scenes/OpenScene.unity
+    guid: 82f11503617d448489e3b5f7701dadd9
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: ae60a6bb209fcfa438b32a1d1a53d332,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 22ede5a5f0e2095439f7e1d5f6650bfe,
+      type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 41b66a71673fd4345a15db7a7e06f4fe,
+      type: 2}

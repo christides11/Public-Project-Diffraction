@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: AssistName Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: AssistName
+  m_TableCollectionNameGuidString: a462247c00b8597499a93843abfdcbb3
+  m_Entries:
+  - m_Id: 8215724032
+    m_Key: Sakuya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21364867072
+    m_Key: Iku
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41631744000
+    m_Key: Medicine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59906326528
+    m_Key: Rumia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20597135507456
+    m_Key: None
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8038395739028062210
+  references:
+    version: 2
+    RefIds:
+    - rid: 8038395739028062210
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1692191340658
